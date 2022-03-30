@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9358529db3a2cff4292cc9825161d8c9, type: 3}
+  m_Name: 1st Dialoge
+  m_EditorClassIdentifier: 
+  speakerLibrary:
+  - name: Player
+    sprite: {fileID: 21300000, guid: 63faeae3e49c39d4a807b3e705750f37, type: 3}
+  - name: Caado
+    sprite: {fileID: 21300000, guid: b95be1d1de22b8548a6d3080da5878b4, type: 3}
+  - name: Secretary
+    sprite: {fileID: 0}
